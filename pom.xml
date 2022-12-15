@@ -8,8 +8,8 @@
 		<version>2.2.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>flipkart</groupId>
-	<artifactId>myntra</artifactId>
+	<groupId>dhanavantari</groupId>
+	<artifactId>cipipeline</artifactId>
 	<version>1.0-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
