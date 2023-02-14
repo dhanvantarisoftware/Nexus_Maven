@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dhanvantari</groupId>
-	<artifactId>ci_pipeline/artifactId>
+	<artifactId>webtech</artifactId>
 	<version>1.0-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
