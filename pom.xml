@@ -8,9 +8,9 @@
 		<version>2.2.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>capgemini</groupId>
-	<artifactId>webtech</artifactId>
-	<version>1.2-RELEASE</version>
+	<groupId>subbarao</groupId>
+	<artifactId>ramakrishna</artifactId>
+	<version>90-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
