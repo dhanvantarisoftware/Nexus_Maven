@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>subbarao</groupId>
 	<artifactId>ramakrishna</artifactId>
-	<version>1990-RELEASE</version>
+	<version>90-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
