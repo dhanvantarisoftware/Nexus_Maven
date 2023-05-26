@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>DEVOPS</groupId>
 	<artifactId>AWS</artifactId>
-	<version>1.0-RELEASE</version>
+	<version>1.7-SNAPSHOT</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
