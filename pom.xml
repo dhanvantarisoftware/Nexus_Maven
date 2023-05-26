@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>capgemini</groupId>
-	<artifactId>webtech</artifactId>
-	<version>1.2-RELEASE</version>
+	<artifactId>myhome</artifactId>
+	<version>1.0-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
