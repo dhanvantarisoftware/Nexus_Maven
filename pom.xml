@@ -11,7 +11,7 @@
 	<groupId>capgemini</groupId>
 	<artifactId>myhome</artifactId>
 	<version>1.0-RELEASE</version>
-	<name>myntra</name>
+	<name>sonarqube-integration</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
